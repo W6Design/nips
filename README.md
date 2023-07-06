@@ -66,7 +66,7 @@ They exist to document what may be implemented by [Nostr](https://github.com/nos
 - [NIP-89: Recommended Application Handlers](89.md)
 - [NIP-94: File Metadata](94.md)
 - [NIP-98: HTTP Auth](98.md)
-
+- NIP-555: Light Nostr NFTs () 
 ## Event Kinds
 
 | kind    | description                | NIP         |
